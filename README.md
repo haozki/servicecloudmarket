@@ -7,7 +7,9 @@
 
 参与评测厂家提交使用本厂家移动端App客服的TOP20用户名单。
 
-参测厂商提交数据示意图
+![Bower version](http://haozki.me/servicecloudmarket/img1.png)
+
+_参测厂商提交数据示意图_
 
 
 ## 三、公证机构按如下标准验证名单中的用户是否被接受：
@@ -21,14 +23,21 @@
 1. 分别核对TOP20 App中的每个App的日活，然后计算TOP20 App累计的日活。为保证日活数据的公正性，可以采用至少2家检测机构的数据。
 2. 分别核对TOP20 App中的每个App的下载量，然后计算TOP20 App的累计下载量。为保证日活数据的公正性，建议可以选择一个常用的App市场，比如360手机助手。
 
-公证机构公开数据示意图
+![Bower version](http://haozki.me/servicecloudmarket/img2.png)
+
+_公证机构公开数据示意图_
 
 
 ## 五、计算参测厂家的市场覆盖率，即参测厂商在移动端App客服的TOP20客户的总日活与总下载量。计算结果的示意图如下：
 
-第三方机构统计Top20应用日活数示意图
+![Bower version](http://haozki.me/servicecloudmarket/img3.jpg)
+![Bower version](http://haozki.me/servicecloudmarket/img4.jpg)
 
-Top20应用总下载量示意图
+_第三方机构统计Top20应用日活数示意图_
+
+![Bower version](http://haozki.me/servicecloudmarket/img5.jpg)
+
+_Top20应用总下载量示意图_
 
 **为保证整个评测过程公开公证透明，除了通过权威公证机构外，全部评测流程和评测结果放到github上公开。具体过程如下：**
 
